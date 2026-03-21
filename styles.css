@@ -159,7 +159,7 @@ body {
 
 .section-row {
   max-width: 1024px;
-  margin: 64px auto 24px;
+  margin: 64px 0 24px;
   padding: 0 16px;
   display: flex;
   align-items: center;
