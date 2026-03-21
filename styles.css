@@ -165,6 +165,7 @@ body {
   align-items: center;
   justify-content: space-between;
   animation: fadeUp .6s .25s ease both;
+  width: 100%;
 }
 
 .section-row h2 {
