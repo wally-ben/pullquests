@@ -199,24 +199,24 @@ body {
 .cards {
   max-width: 1024px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 32px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
+  gap: 20px;
 }
 
 .card {
   background: #252429;
   color: #ffffff;
   max-width: 480px;
-  padding: 60px;
+  padding: 35px;
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0,0,0,.125);
   overflow: hidden;
   position: relative;
   display: flex;
   flex-direction: column;
-  gap: 1px;
+  gap: 20px;
   text-decoration: none;
   animation: fadeUp .6s ease both;
 }
