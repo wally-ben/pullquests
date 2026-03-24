@@ -291,6 +291,14 @@ body {
   line-height: 1.125;
 }
 
+.card-fix .card-title {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 900;
+  font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
 .card-locked .card-title {
   color: #8492a6;
 }
