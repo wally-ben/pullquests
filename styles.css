@@ -103,7 +103,6 @@ body {
 }
 
 .c-red { color: #ec3750; }
-.c-green { color: #33d6a6; }
 
 .hero-lead {
   font-size: 20px;
@@ -294,9 +293,16 @@ body {
 .card-fix .card-title {
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 900;
-  font-size: 28px;
+  font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  color: #f1c40f;
+}
+
+.fix-filled { color: #f1c40f; }
+.fix-outline {
+  -webkit-text-stroke: 2px #f1c40f;
+  color: transparent;
 }
 
 .card-locked .card-title {
